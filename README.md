@@ -1,4 +1,4 @@
-# IT-Specialist-Salary-Survey-Result
+# IT-Specialist-Salary-Survey-Result 2023
 
 
 Results of the 2023 salary survey of experts and managers in the Turkish IT sector. The raw data is organized and presented in Excel format. This resource is converted to Excel of the .csv content in the account named Onceki Yazilimci. It is shared by colonization.
