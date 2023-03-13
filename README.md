@@ -8,8 +8,8 @@ Source: https://github.com/oncekiyazilimci/2023-yazilim-sektoru-maaslari
 
 Turkish
 Turkiye IT sektorundeki uzmanlarin ve yoneticilerin yapmis oldugu 2023 yili maas anketi sonuclari. Ham veriler duzenlenmis ve Excel formatinda sunulmustur. 
-Ham format kaynagi: https://github.com/oncekiyazilimci/2023-yazilim-sektoru-maaslari.
+
 
 Bu kaynak Onceki Yazilimci adli hesaptaki .csv formatindaki icerigin Excel formatina  donusturulup, kolon duzenlemesi yapilarak paylasilmistir.
 
-Kaynak: https://github.com/oncekiyazilimci/2023-yazilim-sektoru-maaslari
+Ham format kaynagi: https://github.com/oncekiyazilimci/2023-yazilim-sektoru-maaslari.
